@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Moramadaan/Project-Rest-Rant#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   }
