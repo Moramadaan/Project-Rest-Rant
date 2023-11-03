@@ -10,6 +10,7 @@ function Def (html) {
             </head>
             <body>
                 {html.children}
+                <footer class="footer"> © Mohamed Mohamed</footer>
             </body>
         </html>
     )
