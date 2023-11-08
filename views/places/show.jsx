@@ -30,8 +30,6 @@ function show (data) {
             <h2>Comments</h2>
             <p>no comment yet!</p>
             <hr />
-            
-
             <a href={`/places/${data.id}/edit`} className="btn btn-warning"> 
               Edit
             </a>  
