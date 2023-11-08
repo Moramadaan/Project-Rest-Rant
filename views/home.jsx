@@ -10,7 +10,7 @@ function home () {
               <div>
                 <image src="/images/image1.jpg" alt="Food Drink" />
                 <div>
-                  Photo by <a href="https://unsplash.com/@erol?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Erol Ahmed</a> on <a href="https://unsplash.com/photos/blueberry-pie-on-plate-with-knife--N2Jdazh03Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+                  Photo by <a href="https://unsplash.com/@kaizennguyen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kaizen Nguyễn</a> on <a href="https://unsplash.com/photos/six-clear-glass-mason-jars-filled-with-juice-on-black-table-jcLcWL8D7AQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
                 </div>
               </div>
               <a href="/places">
