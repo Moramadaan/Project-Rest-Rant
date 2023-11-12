@@ -23,7 +23,7 @@ function Def (html) {
                     </ul>
                 </nav>
                 {html.children}
-                <footer class="footer"> © Mohamed Mohamed</footer>
+                <footer className="footer"> © Mohamed Mohamed</footer>
             </body>
         </html>
     )

@@ -3,11 +3,11 @@ const Def = require('../defualt')
 
   
   function index (data) {
-    let placesFormatted = data.places.map((place, index) => {
+    let placesFormatted = data.places.map((places) => {
       return (
         <div className="col-sm-6">
           <h2>
-            <a href={`/places/${index}`} >
+            <a href={`/places/${place.id}`} >
               {place.name}
             </a>
           </h2>
