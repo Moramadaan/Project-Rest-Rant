@@ -3,7 +3,7 @@ const Def = require('../defualt')
 
   
   function index (data) {
-    let placesFormatted = data.places.map((places) => {
+    let placesFormatted = data.places.map((place) => {
       return (
         <div className="col-sm-6">
           <h2>
